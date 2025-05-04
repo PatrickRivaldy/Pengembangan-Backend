@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "namabarang": "Buku",
+    "jumlahbarang": 50,
+    "terjual": 30,
+    "sisa": 20,
+    "dateAt": "2023-08-01T00:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "namabarang": "Bolpoin",
+    "jumlahbarang": 50,
+    "terjual": 30,
+    "sisa": 20,
+    "dateAt": "2023-08-01T00:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "namabarang": "Pensil",
+    "jumlahbarang": 50,
+    "terjual": 30,
+    "sisa": 20,
+    "dateAt": "2023-08-01T00:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "namabarang": "Penghaous",
+    "jumlahbarang": 50,
+    "terjual": 30,
+    "sisa": 20,
+    "dateAt": "2023-08-01T00:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "namabarang": "Penggaris",
+    "jumlahbarang": 50,
+    "terjual": 30,
+    "sisa": 20,
+    "dateAt": "2023-08-01T00:00:00.000Z"
+  }
+]
