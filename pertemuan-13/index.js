@@ -12,6 +12,9 @@ app.use(express.json());
 
 app.use('/mahasiswa', mahasiswaRoutes);
 app.use('/matakuliah', matakuliahRoutes);
+app.use('/', (req, res) => {
+    res.send('HALO');
+});
 
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
